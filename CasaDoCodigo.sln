@@ -1,0 +1,130 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaDoCodigo", "CasaDoCodigo\CasaDoCodigo.csproj", "{21A276FD-D98D-49A4-B038-61D434F75B6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Recursos", "_Recursos", "{693DEAB4-D21C-4119-9718-9EBEA6937336}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{284E75F9-1D0B-48A3-B764-349B53596603}"
+	ProjectSection(SolutionItems) = preProject
+		..\ASPNETCore - projeto alura inicial\_Recursos\css\site.css = ..\ASPNETCore - projeto alura inicial\_Recursos\css\site.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dados", "dados", "{6927706E-ED17-4142-AB1B-99DC3FFC5E92}"
+	ProjectSection(SolutionItems) = preProject
+		..\ASPNETCore - projeto alura inicial\_Recursos\dados\livros.json = ..\ASPNETCore - projeto alura inicial\_Recursos\dados\livros.json
+		..\ASPNETCore - projeto alura inicial\_Recursos\dados\modelo.cs = ..\ASPNETCore - projeto alura inicial\_Recursos\dados\modelo.cs
+		..\ASPNETCore - projeto alura inicial\_Recursos\dados\modelo.png = ..\ASPNETCore - projeto alura inicial\_Recursos\dados\modelo.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "logos", "logos", "{C1D77C22-A226-4798-BE9A-908FA3E1B8A7}"
+	ProjectSection(SolutionItems) = preProject
+		..\ASPNETCore - projeto alura inicial\_Recursos\logos\logo.png = ..\ASPNETCore - projeto alura inicial\_Recursos\logos\logo.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "produtos", "produtos", "{7911DE55-616F-4703-AF2D-3EBAC3AC0114}"
+	ProjectSection(SolutionItems) = preProject
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_001.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_001.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_002.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_002.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_003.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_003.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_004.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_004.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_005.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_005.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_006.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_006.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_007.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_007.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_008.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_008.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_009.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_009.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_010.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_010.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_011.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_011.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_012.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_012.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_013.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_013.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_014.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_014.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_015.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_015.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_016.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_016.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_017.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_017.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_018.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_018.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_019.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_019.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_020.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_020.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_021.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_021.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_022.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_022.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_023.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_023.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_024.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_024.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_025.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_025.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_026.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_026.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_027.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_027.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_028.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_028.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_029.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_029.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_030.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_030.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_031.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_031.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_032.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_032.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_033.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_033.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_034.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_034.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_035.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_035.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_036.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_036.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_037.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_037.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_038.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_038.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_039.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_039.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_040.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_040.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_041.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_041.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_042.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_042.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_043.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_043.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_044.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_044.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_045.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_045.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_046.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_046.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_047.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_047.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_048.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_048.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_049.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_049.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_050.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_050.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_051.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_051.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_052.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_052.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_053.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_053.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_054.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_054.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_055.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_055.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_056.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_056.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_057.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_057.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_058.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_058.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_059.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_059.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_060.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_060.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_061.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_061.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_062.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_062.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_063.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_063.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_064.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_064.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_065.jpg = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\large_065.jpg
+		..\ASPNETCore - projeto alura inicial\_Recursos\produtos\livros.txt = ..\ASPNETCore - projeto alura inicial\_Recursos\produtos\livros.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "views-com-bootstrap", "views-com-bootstrap", "{D784A23E-ACCA-43EE-AEAB-68E971BE4089}"
+	ProjectSection(SolutionItems) = preProject
+		..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\_Layout.cshtml = ..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\_Layout.cshtml
+		..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\Cadastro.cshtml = ..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\Cadastro.cshtml
+		..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\Carrinho.cshtml = ..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\Carrinho.cshtml
+		..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\Carrossel.cshtml = ..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\Carrossel.cshtml
+		..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\Resumo.cshtml = ..\ASPNETCore - projeto alura inicial\_Recursos\views-com-bootstrap\Resumo.cshtml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A276FD-D98D-49A4-B038-61D434F75B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A276FD-D98D-49A4-B038-61D434F75B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A276FD-D98D-49A4-B038-61D434F75B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A276FD-D98D-49A4-B038-61D434F75B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{284E75F9-1D0B-48A3-B764-349B53596603} = {693DEAB4-D21C-4119-9718-9EBEA6937336}
+		{6927706E-ED17-4142-AB1B-99DC3FFC5E92} = {693DEAB4-D21C-4119-9718-9EBEA6937336}
+		{C1D77C22-A226-4798-BE9A-908FA3E1B8A7} = {693DEAB4-D21C-4119-9718-9EBEA6937336}
+		{7911DE55-616F-4703-AF2D-3EBAC3AC0114} = {693DEAB4-D21C-4119-9718-9EBEA6937336}
+		{D784A23E-ACCA-43EE-AEAB-68E971BE4089} = {693DEAB4-D21C-4119-9718-9EBEA6937336}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C413492-BBE1-4FBD-8600-AE00915D536D}
+	EndGlobalSection
+EndGlobal
