@@ -23,8 +23,13 @@ using CasaDoCodigo.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\ingridi.marques\Documents\GitHub\CasaDoCodigo\CasaDoCodigo\Views\_ViewImports.cshtml"
+using CasaDoCodigo.Models.ViewModels;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"135d1a2ce6deb1ab00ed0cc2b5acce40b5c7b406", @"/Views/Pedido/Carrossel.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f425103b9042481fbdd49f3917720d72e9a0d106", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"614a64d9d2747c37e45b6aab27c29a08eb8a373b", @"/Views/_ViewImports.cshtml")]
     public class Views_Pedido_Carrossel : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<Produto>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "carrinho", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -146,7 +151,7 @@ WriteAttributeValue("", 1045, produto.Codigo, 1045, 17, false);
             WriteLiteral("</strong></h4></div>\n                                    <div class=\"text-center\">\n                                        ");
             EndContext();
             BeginContext(1456, 97, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3fc1a21b10d44e59e12f2846e090fd2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2d23fb5cdbbe4c9a89c5bfb64c46d0cd", async() => {
                 BeginContext(1540, 9, true);
                 WriteLiteral("Adicionar");
                 EndContext();

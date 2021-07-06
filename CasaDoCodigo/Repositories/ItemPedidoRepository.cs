@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace CasaDoCodigo.Repositories {
     public interface IItemPedidoRepository {
-        void UpdateQuantidade(ItemPedido itemPedido);
+        ItemPedido GetItemPedido(int itemPedidoId);
+        void RemoveItemPedido(int itemPedidoId);
     }
 
     public class ItemPedidoRepository : BaseRepository<ItemPedido>, IItemPedidoRepository {
         public ItemPedidoRepository(ApplicationContext contexto) : base(contexto) {
         }
 
-        public void UpdateQuantidade(ItemPedido itemPedido) {
-            var itemPedidoDB = dbSet.Where(ip => ip.Id == itemPedido.Id).SingleOrDefault();
+        public ItemPedido GetItemPedido(int itemPedidoId) {
+            return dbSet.Where(ip => ip.Id == itemPedidoId).SingleOrDefault();
+        }
 
-            if (itemPedidoDB != null) {
-                itemPedidoDB.AtualizaQuantidade(itemPedido.Quantidade);
-                contexto.SaveChanges();
-            }
+        public void RemoveItemPedido(int itemPedidoId) {
+            dbSet.Remove(GetItemPedido(itemPedidoId));
         }
     }
 }
